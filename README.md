@@ -1,7 +1,7 @@
-<h1 align="center">Salutations 👋, I'm Augusto!</h1>
-<h3 align="center">A passionate developer and DPO from Brazil</h3>
+<h1 align="center">Salutations 👋, I'm Gus!</h1>
+<h3 align="center">A passionate Project Manager and DPO from Brazil</h3>
 
-- 🌱 I’m currently working with **TypeScript** and **JavaScript**
+- 🌱 On the dev/test side I’m currently working with **TypeScript** and **JavaScript**
 
 - 📫 How to reach me **augustocosbat@gmail.com**
 
